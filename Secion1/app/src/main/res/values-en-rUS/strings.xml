@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplicacion 1</string>
+    <string name="nombre_R">Name</string>
+    <string name="edad">Age</string>
+    <string name="correo">email</string>
+    <string name="fecha">date</string>
+    <string name="calcularF">calculate</string>
+    <string name="numero">" account number "</string>
+    <string name="calcular">calculate Sign Zodiacal</string>
+    <string name="regresar">return</string>
+</resources>

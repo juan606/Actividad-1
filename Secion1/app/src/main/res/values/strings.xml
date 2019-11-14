@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Aplicacion 1</string>
+    <string name="nombre_R">Nombre</string>
+    <string name="edad">Edad</string>
+    <string name="correo">Correo</string>
+    <string name="fecha">Fecha</string>
+    <string name="regresar">Regresar</string>
+    <string name="calcularF">Calcular</string>
+    <string name="numero">Numero de cuenta</string>
+    <string name="calcular">Calcular signo zodiacal</string>
+
+    <string-array name="Signo">
+        <item>Perro –Tierra</item>
+        <item>Cerdo –Tierra</item>
+        <item>Rata –Metal</item>
+        <item>Buey –Metal</item>
+        <item>Tigre –Agua</item>
+        <item>Conejo –Agua</item>
+        <item>Dragón –Madera</item>
+        <item>Serpiente –Madera</item>
+        <item>Caballo –Fuego</item>
+        <item>Cabra –Fuego</item>
+        <item>Mono –Tierra</item>
+        <item>Gallo –Tierra</item>
+        <item>Perro –Metal</item>
+        <item>Cerdo –Metal</item>
+        <item>Rata –Agua</item>
+        <item>Buey –Agua</item>
+        <item>Tigre –Madera</item>
+        <item>Conejo –Madera</item>
+        <item>Dragón –Fuego</item>
+        <item>Serpiente –Fuego</item>
+        <item>Caballo –Tierra</item>
+        <item>Cabra –Tierra</item>
+        <item>Mono –Metal</item>
+        <item>Gallo –Metal</item>
+        <item>Perro –Agua</item>
+        <item>Cerdo –Agua</item>
+        <item>Rata –Madera</item>
+        <item>Buey –Madera</item>
+        <item>Tigre –Fuego</item>
+        <item>Conejo –Fuego</item>
+        <item>Dragón –Tierra</item>
+        <item>Serpiente –Tierra</item>
+        <item>Caballo –Metal</item>
+        <item>Cabra –Metal</item>
+        <item>Mono –Agua</item>
+        <item>Gallo –Agua</item>
+        <item>Perro –Madera</item>
+        <item>Cerdo –Madera</item>
+        <item>Rata –Fuego</item>
+        <item>Buey –Fuego</item>
+        <item>Tigre –Tierra</item>
+        <item>Conejo –Tierra</item>
+        <item>Dragón –Metal</item>
+        <item>Serpiente –Metal</item>
+        <item>Caballo –Agua</item>
+        <item>Cabra –Agua</item>
+        <item>Mono –Madera</item>
+        <item>Gallo –Madera</item>
+        <item>Perro –Fuego</item>
+        <item>Cerdo –Fuego</item>
+        <item>Rata – Tierra</item>
+        <item>Buey – Tierra</item>
+        <item>Tigre – Metal</item>
+        <item>Conejo-Metal</item>
+        <item>Dragón -Agua</item>
+        <item>Serpiente -Agua</item>
+        <item>Caballo -Madera</item>
+        <item>Cabra -Madera</item>
+        <item>Mono -Fuego</item>
+        <item>Gallo -Fuego</item>
+        <item>Perro -Tierra</item>
+        <item>Cerdo -Tierra</item>
+    </string-array>
+
+
+</resources>
